@@ -1,3 +1,0 @@
-This is readme file... hooray!
-
-Here is another line of TEXT!!! Awesome....
